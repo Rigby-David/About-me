@@ -17,7 +17,7 @@ If you work on more than one feature at a time, you are guaranteed to multiply y
 ## HTML Setup (all of these elements need an ID)
 - section
     - Why do I need a section? I need somewhere to display my about me
-    - How do I implement this? const sectionName = document.getElementById()
+    - How do I implement this? const sectionName = document.getElementById(), section element
 - button 
     - Why? Need to display hidden image
     - How? const buttonName = document.getElementById()

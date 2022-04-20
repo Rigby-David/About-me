@@ -32,6 +32,10 @@ body {
     background-color: var(--color2);
 }
 
+.hidden {
+    style.display: hidden;
+}
+
 main {
     display: flex;
     flex-direction: column;
