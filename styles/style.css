@@ -36,12 +36,21 @@ body {
     display: none;
 }
 
+#about-me {
+    background-color: red;
+}
+
+#animal {
+    background-color: red;
+}
+
 main {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     margin-bottom: calc(var(--footer-height));
+    background-color: cyan;
 }
 
 section {
@@ -64,6 +73,11 @@ header {
     background-color: var(--color3);
     height: var(--header-height);
     box-shadow: var(--shadow);
+    background-color: magenta;
+}
+
+h1 {
+    background-color: purple;
 }
 
 h2 {
@@ -81,6 +95,7 @@ header img {
 
 p {
     margin: var(--gutter);
+    color: yellow;
 }
 
 footer {
