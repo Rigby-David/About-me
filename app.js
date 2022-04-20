@@ -1,5 +1,5 @@
 // import functions
-
+const myName = document.getElementById('my-name');
 // grab DOM elements
 
 // set event listeners 
