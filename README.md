@@ -14,6 +14,15 @@ If you work on more than one feature at a time, you are guaranteed to multiply y
 1. **Think about how to validate each of your features according to a Definition of Done**
 1. **Consider what features _depend_ on what other features. Use this dependency logic to figure out what order to complete tasks.**
 
+## HTML Setup (all of these elements need an ID)
+- section
+    - Why do I need a section? I need somewhere to display my about me
+    - How do I implement this? const sectionName = document.getElementById()
+- button 
+    - Why? Need to display hidden image
+    - How? const buttonName = document.getElementById()
+    - myButton.addEventListener('click', () => {}
+- 
 Additional considerations:
 
 -   Ask: which of your HTML elements need to be hard coded, and which need to be dynamically generated?
