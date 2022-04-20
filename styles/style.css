@@ -33,7 +33,7 @@ body {
 }
 
 .hidden {
-    style.display: hidden;
+    display: none;
 }
 
 main {
